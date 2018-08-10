@@ -1,13 +1,18 @@
 ---
 name: "[ADMIN SITE - ]"
-about: Bug issue
+about: Issue on Admin site
 
 ---
 
 **Issue:**
 
-A clear and concise description of what the bug is.
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Request:**
 
-Please fix.
+A clear and concise description of what you want to happen.
+
+
+**Please view mockup**
+
+Add any other context or screenshots about the feature request here.
